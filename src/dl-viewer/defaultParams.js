@@ -1,4 +1,5 @@
 export { DEFAULT_MAT_PARAMS } from "./wrapModel/addMaterialFunctions/helper";
+import { DEFAULT_MODEL } from "@/config";
 
 export const defaultRendererParams = {
     alpha: true,
@@ -18,7 +19,7 @@ export const PERSPECTIVE_CAM = {
     near: 0.01,
 };
 
-export const DEFAULT_MODEL = "c100001_01";
+export { DEFAULT_MODEL };
 
 export const DEFAULT_ADV_ANI = "CMN_MWM_03";
 
