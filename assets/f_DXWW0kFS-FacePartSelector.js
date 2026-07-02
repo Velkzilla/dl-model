@@ -1,0 +1,1 @@
+import{T as e}from"./index-BqHczHUI.js";import{t}from"./f_CTZlYWqv-Selector.js";var n=[`Eyes`,`Mouth`,`Both`];function r({value:r,onClick:i}){return e(t,{type:`text`,options:n,value:r,onClick:i})}export{r as t};

@@ -1,0 +1,1 @@
+import{T as e}from"./index-BqHczHUI.js";import{a as t,t as n}from"./f_GvAaO1bK-DialogTitle.js";import{t as r}from"./f_BjGmCaow-ColorPicker.js";function i({onSelect:i}){return e(`div`,{className:`BackgroundPicker`,children:[e(n,{sx:{textAlign:`center`},children:`Pick a Color`}),e(t,{children:e(r,{onSelect:i})})]})}export{i as default};
